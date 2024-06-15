@@ -1,4 +1,4 @@
 [submodule "hyperloop"]
-	path = hyperloop
+	path = hyperloop?ref=main&t
 	branch = main
 	url = https://github.com/MohammedBenhelli/hyperloop
